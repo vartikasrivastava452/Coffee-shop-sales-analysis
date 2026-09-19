@@ -104,9 +104,4 @@ The dashboard includes the following components:
 
 
 
-## Dashboard
 
-https://github.com/user-attachments/assets/82ddf263-4026-4875-b754-b7196c77e3f6
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
